@@ -96,7 +96,7 @@
     position: relative;
     top: 320px;
     left: 900px;
-    animation: sutr 0.7s infinite linear;
+    animation: sutr 1.2s infinite linear;
 }
 
 #score{
